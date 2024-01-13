@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="G:\Andere Computer\Stand PC\_EIGNES\Studium\3. Semester\SW-Entw. mit klass. Sprachen\Übung\ue07-sargan26\src\bsp1\bishop.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Andere Computer\Stand PC\_EIGNES\Studium\3. Semester\SW-Entw. mit klass. Sprachen\Übung\ue07-sargan26\src\bsp1\chessboard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Andere Computer\Stand PC\_EIGNES\Studium\3. Semester\SW-Entw. mit klass. Sprachen\Übung\ue07-sargan26\src\bsp1\chessman.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Andere Computer\Stand PC\_EIGNES\Studium\3. Semester\SW-Entw. mit klass. Sprachen\Übung\ue07-sargan26\src\bsp1\king.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Andere Computer\Stand PC\_EIGNES\Studium\3. Semester\SW-Entw. mit klass. Sprachen\Übung\ue07-sargan26\src\bsp1\knight.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Andere Computer\Stand PC\_EIGNES\Studium\3. Semester\SW-Entw. mit klass. Sprachen\Übung\ue07-sargan26\src\bsp1\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Andere Computer\Stand PC\_EIGNES\Studium\3. Semester\SW-Entw. mit klass. Sprachen\Übung\ue07-sargan26\src\bsp1\pawn.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Andere Computer\Stand PC\_EIGNES\Studium\3. Semester\SW-Entw. mit klass. Sprachen\Übung\ue07-sargan26\src\bsp1\queen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Andere Computer\Stand PC\_EIGNES\Studium\3. Semester\SW-Entw. mit klass. Sprachen\Übung\ue07-sargan26\src\bsp1\rook.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="G:\Andere Computer\Stand PC\_EIGNES\Studium\3. Semester\SW-Entw. mit klass. Sprachen\Übung\ue07-sargan26\src\bsp1\bishop.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\Andere Computer\Stand PC\_EIGNES\Studium\3. Semester\SW-Entw. mit klass. Sprachen\Übung\ue07-sargan26\src\bsp1\chessboard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\Andere Computer\Stand PC\_EIGNES\Studium\3. Semester\SW-Entw. mit klass. Sprachen\Übung\ue07-sargan26\src\bsp1\chessman.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\Andere Computer\Stand PC\_EIGNES\Studium\3. Semester\SW-Entw. mit klass. Sprachen\Übung\ue07-sargan26\src\bsp1\king.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\Andere Computer\Stand PC\_EIGNES\Studium\3. Semester\SW-Entw. mit klass. Sprachen\Übung\ue07-sargan26\src\bsp1\knight.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\Andere Computer\Stand PC\_EIGNES\Studium\3. Semester\SW-Entw. mit klass. Sprachen\Übung\ue07-sargan26\src\bsp1\pawn.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\Andere Computer\Stand PC\_EIGNES\Studium\3. Semester\SW-Entw. mit klass. Sprachen\Übung\ue07-sargan26\src\bsp1\queen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\Andere Computer\Stand PC\_EIGNES\Studium\3. Semester\SW-Entw. mit klass. Sprachen\Übung\ue07-sargan26\src\bsp1\resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\Andere Computer\Stand PC\_EIGNES\Studium\3. Semester\SW-Entw. mit klass. Sprachen\Übung\ue07-sargan26\src\bsp1\rook.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="G:\Andere Computer\Stand PC\_EIGNES\Studium\3. Semester\SW-Entw. mit klass. Sprachen\Übung\ue07-sargan26\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{13110F39-F45E-374D-91AF-438C43CFF733}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{17A67ECF-E69B-3343-B9A9-97B63CEFFB4C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
